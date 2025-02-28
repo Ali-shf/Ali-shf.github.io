@@ -1,9 +1,7 @@
-# My GitHub Pages Website
 
-Welcome to my website hosted on [GitHub Pages](https://ali-shf.github.io/).
 
 ## About the Project
-This project is a simple HTML/CSS website created as a personal project. It demonstrates basic web development skills and is designed to showcase content and styling through GitHub Pages.
+This project  which hosted on [GitHub Pages]  is a simple HTML/CSS website created as a personal project. It demonstrates basic web development skills and is designed to showcase content and styling through GitHub Pages. link : (https://ali-shf.github.io/)
 
 ## Features
 - Responsive layout
